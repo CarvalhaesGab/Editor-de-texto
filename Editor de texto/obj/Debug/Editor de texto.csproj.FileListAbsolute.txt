@@ -1,0 +1,8 @@
+D:\Projetos C#\Editor de texto\Editor de texto\bin\Debug\Editor de texto.exe.config
+D:\Projetos C#\Editor de texto\Editor de texto\bin\Debug\Editor de texto.exe
+D:\Projetos C#\Editor de texto\Editor de texto\bin\Debug\Editor de texto.pdb
+D:\Projetos C#\Editor de texto\Editor de texto\obj\Debug\Editor de texto.csproj.AssemblyReference.cache
+D:\Projetos C#\Editor de texto\Editor de texto\obj\Debug\Editor de texto.csproj.SuggestedBindingRedirects.cache
+D:\Projetos C#\Editor de texto\Editor de texto\obj\Debug\Editor de texto.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Editor de texto\Editor de texto\obj\Debug\Editor de texto.exe
+D:\Projetos C#\Editor de texto\Editor de texto\obj\Debug\Editor de texto.pdb
